@@ -70,7 +70,7 @@ Python 3.10 или выше
 Пример:
 **Windows** cd C:\Users\User\Desktop\weather-diary.
 **Linux / macOS** cd ~/Desktop/weather-diary.
-Запустить файл:
+4. Запустить файл:
 ```bash
 python main.py
 ```
